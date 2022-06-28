@@ -15,8 +15,6 @@
 也可以使用自己的字体，修改 `solution.tex` 里面的 `\setCJKMainFont` 命令中对字体的配置即可。
 
 ## 编译方式
-
-使用 `xelatex.exe` 编译 `solution.tex` 两次：
 ```shell
 .\build.bat   # Only on Windows
 ```
