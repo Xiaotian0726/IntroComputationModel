@@ -16,7 +16,10 @@
 
 ## 编译方式
 
-使用 `XeLatex` 编译 `solution.tex` 两次。
+使用 `xelatex.exe` 编译 `solution.tex` 两次：
+```shell
+.\build.bat   # Only on Windows
+```
 
 ## 答案参考
 
